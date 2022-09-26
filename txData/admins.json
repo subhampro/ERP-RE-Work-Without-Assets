@@ -1,0 +1,160 @@
+[
+  {
+    "name": "_ELAPSED_ROLEPLAY",
+    "master": true,
+    "password_hash": "$2a$11$KU6sNob9l5qxFyYbMFGVl.qpxvyWaS3BWV9H4YZE1JpVX2H.XDDE2",
+    "providers": {
+      "citizenfx": {
+        "id": "_ELAPSED_ROLEPLAY",
+        "identifier": "fivem:4277188",
+        "data": {
+          "sub": "a3b7a1c255eed532b00e5d402da369fd",
+          "nameid": "https://forum.cfx.re/internal/user/4277188",
+          "name": "_ELAPSED_ROLEPLAY",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/_elapsed_roleplay/256/2612638_2.png",
+          "profile": "https://forum.cfx.re/u/_ELAPSED_ROLEPLAY"
+        }
+      },
+      "discord": {
+        "id": "451231838229495828",
+        "identifier": "discord:451231838229495828",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "EulinAntiCheat",
+    "master": false,
+    "password_hash": "$2a$11$7lAicicX2UcYBGOUeC62NeCrCq.LncqZGdAWsQB0jo0REih0AjVDW",
+    "providers": {
+      "citizenfx": {
+        "id": "INDIAN_RP",
+        "identifier": "fivem:5124778",
+        "data": {
+          "sub": "4ca92be7eb3874869c9830271993d7b4",
+          "nameid": "https://forum.cfx.re/internal/user/5124778",
+          "name": "INDIAN_RP",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/indian_rp/256/2067432_2.png",
+          "profile": "https://forum.cfx.re/u/INDIAN_RP"
+        }
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Thanos",
+    "master": false,
+    "password_hash": "$2a$11$ZNCwt.rWffHyhE6as0hVaOSDnAFqr4Tf9X57kSLHn9Uvo7dK7jQyG",
+    "providers": {},
+    "permissions": [
+      "console.view",
+      "txadmin.log.view",
+      "menu.clear_area",
+      "players.message",
+      "players.warn",
+      "players.kick",
+      "players.ban",
+      "players.freeze",
+      "players.heal",
+      "players.playermode",
+      "players.spectate",
+      "players.teleport"
+    ]
+  },
+  {
+    "name": "King",
+    "master": false,
+    "password_hash": "$2a$11$945OJZ4thuBLCXzaHpUhkOHLCvpb84E/0aRl0Vn/JaTWQMdIfuiEe",
+    "providers": {},
+    "permissions": [
+      "console.view",
+      "txadmin.log.view",
+      "menu.clear_area",
+      "players.message",
+      "players.warn",
+      "players.kick",
+      "players.ban",
+      "players.freeze",
+      "players.heal",
+      "players.playermode",
+      "players.spectate",
+      "players.teleport"
+    ]
+  },
+  {
+    "name": "SubhamPRO",
+    "master": false,
+    "password_hash": "$2a$11$Vug1xycjCYDWx0yeI5707OATqM.gMMYEAVMgFxW5S6xuvauuMPM6a",
+    "providers": {
+      "citizenfx": {
+        "id": "INDIAN_RP",
+        "identifier": "fivem:5124778",
+        "data": {}
+      },
+      "discord": {
+        "id": "784286030722629642",
+        "identifier": "discord:784286030722629642",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Abhilash",
+    "master": false,
+    "password_hash": "$2a$11$nczAkz.w3OlZiyFjizqJ4u4r7CDeJHK3j57gsJgn923CzYOfRqnUG",
+    "providers": {},
+    "permissions": [
+      "console.view",
+      "txadmin.log.view",
+      "menu.vehicle",
+      "menu.clear_area",
+      "players.message",
+      "players.warn",
+      "players.kick",
+      "players.ban",
+      "players.freeze",
+      "players.heal",
+      "players.playermode",
+      "players.spectate",
+      "players.teleport"
+    ]
+  },
+  {
+    "name": "GOD",
+    "master": false,
+    "password_hash": "$2a$11$qDqDTT1jtsis8UruD3zKhuYbu55acCcY13HCLzoMSyEyoslGHNRaG",
+    "providers": {
+      "citizenfx": {
+        "id": "Elapsed_Roleplay",
+        "identifier": "fivem:6798473",
+        "data": {}
+      },
+      "discord": {
+        "id": "848941718094610462",
+        "identifier": "discord:848941718094610462",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Hitarth",
+    "master": false,
+    "password_hash": "$2a$11$OBg2edw8cBMRySqAnV/pgu5jfVoaihIv5mlejlW0NplQfg4uefwMq",
+    "providers": {},
+    "permissions": [
+      "players.message",
+      "players.warn",
+      "players.kick",
+      "players.ban"
+    ]
+  }
+]

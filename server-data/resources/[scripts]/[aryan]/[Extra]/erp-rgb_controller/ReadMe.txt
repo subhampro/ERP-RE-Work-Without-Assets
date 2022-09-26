@@ -1,0 +1,3 @@
+**shared/items.lua
+
+['rgb_controller'] 			     = {['name'] = 'rgb_controller', 	           ['label'] = 'RGB Controller',            ['weight'] = 100,     ['type'] = 'item',        ['image'] = 'rgb_controller.png',      ['unique'] = true,       ['useable'] = true,     ['shouldClose'] = true,     ['combinable'] = nil,     ['description'] = 'A premium rgb controller to control rgb of your vehicles!'},

@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+/* .container {
+    height: 100vh;
+    font-family: 'Lato', sans-serif !important;
+} */
+
+.container{
+        /* position: sticky; */
+        height: 46vh;
+        display: block;
+        font-family: 'Lato', sans-serif !important;
+}
+
+.scoreboard-block {
+    display: none;
+    position: absolute;
+    /* height: 62vh; */
+    height: 32vh;
+    width: 40vh;
+    background-color: rgba(255, 255, 255, 0.24);
+    /* background-color: rgb(255, 251, 0); */
+    right: 5vh;
+    top: 28vh;
+    border: 2px solid #ffffff;
+    border-radius: 100px 100px 100px 100px;
+    /* box-shadow: 0px 0px 15px 4px rgba(0, 0, 0, 0.15); */
+}
+
+.scoreboard-header {
+    position: relative;
+    width: 100%;
+    height: 5vh;
+    background: transparent;
+    background: -webkit-linear-gradient(to right, #ffffff00, #ffffff00);
+    background: linear-gradient(to right, #ffffff00, #ffffff00);
+}
+
+.scoreboard-header > p {
+    font-weight: bold;
+    color: white;
+    padding: 1.8vh;
+    font-family: 'Source Sans Pro';
+    font-size: 1.8vh;
+}
+
+/* .scoreboard-info {
+    position: relative;
+    height: 44vh;
+    width: 36vh;
+    top: 45%;
+    transform: translateY(-50%);
+    margin: 0 auto;
+} */
+.scoreboard-info{
+    position: absolute;
+    height: 1.7vh;
+    width: 35vh;
+    top: 45%;
+    transform: translateY(-50%);
+    margin-left: 15px;
+    /* margin: 0px auto; /
+    / border-radius: 25px; */
+    border: 2px solid black;
+}
+
+.scoreboard-info-header {
+    position: relative;
+    height: 2vh;
+}
+
+#info-tab-label {
+    position: absolute;
+    font-family: 'Source Sans Pro';
+    left: 1vh;
+    font-weight: bold;
+}
+
+#status-tab-label {
+    position: absolute;
+    font-family: 'Source Sans Pro';
+    right: 3vh;
+    font-weight: bold;
+}
+
+.info-beam-title {
+    position: absolute;
+    font-family: 'Alatsi', sans-serif;
+    font-size: 1.2vh;
+    font-weight: lighter;
+    letter-spacing: 0.1vh;
+    left: 1vh;
+    line-height: 4.25vh;
+}
+
+.info-beam-status {
+    position: absolute;
+    font-family: 'Source Sans Pro';
+    right: 3vh;
+    float: left;
+    text-align: left;
+    line-height: 4.25vh;
+}
+
+.scoreboard-info-beam {
+    position: relative;
+    height: 4.25vh;
+    width: 100%;
+}
+
+.fa-times {
+    color: rgb(170, 27, 27);
+}
+
+.fa-check {
+    color: rgb(59, 141, 49);
+}
+
+.fa-clock {
+    color: rgb(255, 190, 50);
+}
+
+.sb-logo {
+    width: 15vh;
+    margin: 1.6vh;
+    margin-left: 30%;
+}

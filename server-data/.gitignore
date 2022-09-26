@@ -1,0 +1,14 @@
+**/artifacts
+**/server-data/db
+**/server-data/db/current
+**/server-data/cache
+**/txData/dev_server/
+**/txData/default
+**/gitignore
+**/ignored
+*.7z
+*.zip
+*.rar
+**\[assets\]
+server-data/db
+server-data/db/current

@@ -1,0 +1,11 @@
+{
+    "webhookUrl": "https://discord.com/api/webhooks/993400312197042328/64wrFHUWAto7VWKKqMIdYwDHtg5O_6XnjqNdXVzQkWC6rtojvmcSQy-Grjrj2c0WnUmY",
+    "framework": "none",
+    "commandName": "ss",
+    "commandPermission": "qbcore.god",
+    "hiddenIdentifiers": [],
+    "screenshotOptions": {
+        "encoding": "jpg",
+        "quality": 0.92
+    }
+}

@@ -1,0 +1,1 @@
+@RD /S /Q "C:\Users\erp\Desktop\ERP-RE-Work\server-data\cache\files"

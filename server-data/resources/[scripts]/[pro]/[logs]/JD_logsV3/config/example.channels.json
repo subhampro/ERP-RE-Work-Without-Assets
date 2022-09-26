@@ -1,0 +1,107 @@
+{
+  "newInstall": true,
+  "all": {
+    "channelId": "1002187293207056445",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 1
+  },
+  "system": {
+    "channelId": "1002187293207056445",
+    "icon": "🧾",
+    "color": "#A1A1A1",
+    "embed": true,
+    "client": 2
+  },
+  "imageStore": {
+    "channelId": "1002187293207056445",
+    "webhookID": "",
+    "webhookToken": ""
+  },
+  "chat": {
+    "channelId": "1002187293207056445",
+    "icon": "💬",
+    "color": "#A1A1A1",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "join": {
+    "channelId": "1002187293207056445",
+    "icon": "📥",
+    "color": "#3AF241",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "leave": {
+    "channelId": "1002187293207056445",
+    "icon": "📤",
+    "color": "#F23A3A",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "death": {
+    "channelId": "1002187293207056445",
+    "icon": "💀",
+    "color": "#000000",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "shooting": {
+    "channelId": "1002187293207056445",
+    "icon": "🔫",
+    "color": "#2E66F2",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "resource": {
+    "channelId": "1002187293207056445",
+    "icon": "🔧",
+    "color": "#EBEE3F",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "nameChange": {
+    "channelId": "1002187293207056445",
+    "icon": "💠",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "explosion": {
+    "channelId": "1002187293207056445",
+    "icon": "🧨",
+    "color": "#03FC98",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "screenshot": {
+    "channelId": "1002187293207056445",
+    "icon": "📸",
+    "color": "#A1A1A1",
+    "logHistory": true,
+    "embed": true,
+    "client": 2
+  },
+  "txAdmin": {
+    "channelId": "1002187293207056445",
+    "icon": "💻",
+    "color": "#FFFFFF",
+    "embed": true,
+    "client": 2
+  },
+  "damage": {
+    "channelId": "1002187293207056445",
+    "icon": "🩸",
+    "color": "#FF0000",
+    "embed": true,
+    "client": 2
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "embedbot",
+  "version": "1.0.1",
+  "description": "A self-hosted discord.js bot to send simple embeds.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}

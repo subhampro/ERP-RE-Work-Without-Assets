@@ -1,0 +1,18 @@
+local QBCore = exports['qb-core']:GetCoreObject()
+QBCore.Commands.Add("me", "Character interactions", {}, false, function(source, args)
+	local text = table.concat(args, ' ')
+	local Player = QBCore.Functions.GetPlayer(source)
+	local coords = GetEntityCoords(GetPlayerPed(source))
+    -- TriggerClientEvent('3dme:triggerDisplay', -1, text, source)
+    TriggerClientEvent('3dme:triggerDisplay', -1, text, source, coords)
+    TriggerEvent("qb-log:server:CreateLog", "me", "Me", "white", "**"..GetPlayerName(source).."** (CitizenID: "..Player.PlayerData.citizenid.." | ID: "..source..")** " ..Player.PlayerData.charinfo.firstname.." "..Player.PlayerData.charinfo.lastname.. " **" ..text, false)
+end)
+
+QBCore.Commands.Add("number", "Flash Number", {}, false, function(source)
+	local Player = QBCore.Functions.GetPlayer(source)
+	local text = Player.PlayerData.charinfo.phone
+	local coords = GetEntityCoords(GetPlayerPed(source))
+    -- TriggerClientEvent('3dme:triggerDisplay', -1, text, source)
+    TriggerClientEvent('3dme:triggerDisplay', -1, text, source, coords)
+    TriggerEvent("qb-log:server:CreateLog", "me", "Me", "white", "**"..GetPlayerName(source).."** (CitizenID: "..Player.PlayerData.citizenid.." | ID: "..source..")** " ..Player.PlayerData.charinfo.firstname.." "..Player.PlayerData.charinfo.lastname.. " **" ..text, false)
+end)
